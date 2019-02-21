@@ -1,0 +1,22 @@
+{
+  "name": "mdrm",
+  "version": "1.0.0",
+  "description": "My Digital Refrigerator Magnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilython/mdrm.git"
+  },
+  "author": "Emily Thon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilython/mdrm/issues"
+  },
+  "homepage": "https://github.com/emilython/mdrm#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
